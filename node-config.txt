@@ -1,0 +1,8 @@
+- npm init -y (inicia o projeto com composer);
+- npm i typescript @types/node -D (adiciona o typescript no nodejs como dependencia de DEV)
+- npx tsc --init (cria arquivo de configuração do typescript, tsconfig.json);
+- buscar no repositório https://github.com/microsoft/TypeScript/wiki/Node-Target-Mapping
+as configurações adequeadas para o tsconfig de acordo com a versão do node;
+- npm i tsx -D (converte o código ts para js);
+- adiciona script no package.json "dev":"tsx --watch src/http/server.ts" para converter altomaticamente
+o código ts para js e executar o servidor

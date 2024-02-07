@@ -5,5 +5,6 @@
 ## STACK
 - NodeJS 20+
 - Typescript
+- Fastify
 - Prisma ORM
 - PostgreSQL

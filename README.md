@@ -6,3 +6,4 @@
 - NodeJS 20+
 - Typescript
 - Prisma ORM
+- PostgreSQL

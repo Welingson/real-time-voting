@@ -8,3 +8,4 @@
 - Fastify
 - Prisma ORM
 - PostgreSQL
+- Redis
